@@ -302,3 +302,24 @@ header .container nav .menu-social {
   margin-top: 1.7rem;
   font-weight: 700;
 }
+
+footer {
+  background-color: var(--black-color-medium);
+}
+
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer .container .copy {
+  padding: 5.2rem 0;
+}
+
+footer .container .copy {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}

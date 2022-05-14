@@ -1,15 +1,21 @@
 
-# Título do Projeto
+# My Potfólio Réplica 
 
-Este projeto foi desenvolvido no bootcamp DevStart PayLivre sobre supervisão da be.academy.<br/>
+### 👁️ [Preview Web: vercel](https://beacademy-devstart-frontend-myportfolio.vercel.app/)
+
+Este projeto foi desenvolvido no bootcamp DevStart PayLivre sobre supervisão da be.academy.
+
+Prótoripo desenvolvido pelo professor [Luan Monteiro](https://github.com/lnmont/beacademy-devstart-frontend-myportfolio).
+
 Neste repositório está descrito o processo de criação da réplica do modelo disponibilizado para todos os alunos.
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos desafios na area da programação.
+
+Sou desenvolvedor full-stack, sempre disposto a encarar novos desáfios na área de desenvolvimento, educação e pesquisa.
 
 ## Stack utilizada
 
-**Front-end:** HTML, CSS e Javascript
+**Front-end:** HTML e CSS
 
 ## 📁 Estrutura do projeto
 
@@ -170,15 +176,15 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
 
 ## Aprendizados
 
+Digitando ...
 
-
-## Autores
+## Autor
 
 - [@neresfabio](https://github.com/neresfabio)
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/neresfabio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioneresdejesus/)
 
 ## Referências
