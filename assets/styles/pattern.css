@@ -1,0 +1,18 @@
+/* My variable colors */
+
+:root {
+  --primary-color: #dcf64b;
+  --second-color: #a0b435;
+  --black-color: #000000;
+  --black-color-medium: #0c0c0c;
+  --semi-black: #1e1e1e;
+  --white-color: #ffffff;
+}
+
+/* Container Padrão */
+.container {
+  width: 100%;
+  max-width: 1246px;
+  margin: 0 auto;
+  padding: 0rem 1.5rem;
+}
