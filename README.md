@@ -120,7 +120,9 @@ Eu sou uma pessoa desenvolvedora full-stack...
     </footer>
 
     ```
+## Lista releases
 
+- [release-init-html](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-init-html)
 
 
 ## 🧰 Segunda Etapa:
