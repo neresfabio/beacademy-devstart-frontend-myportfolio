@@ -142,7 +142,7 @@ Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos des
 
     ![html-img](./assets/images/01.png)
 
-- [release-style-header-section]()
+- [release-style-header-section](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-style-header-section)
   
   ![header-section-img](assets/images/header-section.png)
 
