@@ -164,7 +164,7 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
   
   ![section(s-cases)](assets/images/section-cases.png)
 
-- [release-style-section(s-contact)]()
+- [release-style-section(s-contact)](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/blob/release-style-section-s-contact/README.md)
   
   ![section(s-contact)](assets/images/section-contact.png)
 
