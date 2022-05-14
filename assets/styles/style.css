@@ -202,3 +202,59 @@ header .container nav .menu-social {
 .s-about .container .img-about img{
   border-radius: 4px;
 }
+
+/* section case */
+
+.s-cases {
+  padding: 4.5rem 0;
+}
+
+.s-cases .container {
+  display: flex;
+  flex-direction: column;
+}
+.s-cases .container .title-cases {
+  margin-bottom: 7.3rem;
+}
+
+.s-cases .container .cases {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 48rem;
+}
+
+.s-cases .container .cases img {
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.s-cases .container .cases img:hover {
+  transform: translateY(-2%);
+}
+
+.s-cases .container .cases .case {
+  position: absolute;
+  top: 0;
+  left: 405px;
+}
+
+.s-cases .container .cases .case:first-child {
+  position: absolute;
+  top: 0;
+  left: 4px;
+}
+
+.s-cases .container .cases .case:nth-child(2) {
+  position: absolute;
+  top: -20px;
+  left: 315px;
+  z-index: 1;
+}
+
+.s-cases .container .cases .case:last-child {
+  position: absolute;
+  top: 0;
+  left: 700px;
+}

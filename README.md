@@ -160,6 +160,10 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
   
   ![section(s-about)](assets/images/section-about.png)
 
+- [release-style-section(s-cases)]()
+  
+  ![section(s-cases)](assets/images/section-cases.png)
+
 - [release-style-section(s-contact)]()
   
   ![section(s-contact)]()
