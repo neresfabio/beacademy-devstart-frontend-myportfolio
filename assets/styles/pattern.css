@@ -24,6 +24,7 @@ h2 {
   font-size: 6.4rem;
   line-height: 7.7rem;
   color: var(--white-color);
+  margin-top: 2rem;
 }
 
 h2 span {
@@ -38,18 +39,35 @@ h2 span {
   background-color: var(--primary-color);
   color: var(--black-color);
   padding: 1rem 2.6rem;
+  transition: all 0.2s;
 }
+
+.btn-primary:hover {
+  background-color: var(--white-color);
+  transform: scale(1.04);
+}
+
 .btn-primary.empty{
   border: 2px solid var(--primary-color);
   border-radius: 2.4rem;
   color: var(--primary-color);
   background-color: transparent;
 }
+
+.btn-primary.empty:hover {
+  color: var(--black-color);
+  background-color: var(--primary-color);
+}
+.menu-item:hover {
+  color: var(--white-color);
+  transform: scale(1.04);
+}
 .menu-item{
   display: inline-block;
   color: var(--primary-color);
   font-weight: 700;
   line-height: 2.4rem;
+  transition: all 0.2s;
 }
 .tag{
   border-radius: 5rem;
@@ -57,4 +75,24 @@ h2 span {
   background-color: var(--white-color);
   font-size: 1.2rem;
   font-weight: 300;
+}
+
+/* form pattern */
+
+input[type="text"],
+textarea {
+  background-color: var(--semi-black);
+  border: 1px solid var(--semi-black);
+  border-radius: 0.4rem;
+  width: 100%;
+  padding: 2rem;
+  resize: none;
+  color: var(--white-color);
+  outline: none;
+  transition: all 0.4s;
+}
+
+input[type="text"]:hover,
+textarea:hover {
+  border: 1px solid var(--primary-color);
 }

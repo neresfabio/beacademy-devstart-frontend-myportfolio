@@ -166,7 +166,7 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
 
 - [release-style-section(s-contact)]()
   
-  ![section(s-contact)]()
+  ![section(s-contact)](assets/images/section-contact.png)
 
 ## Aprendizados
 

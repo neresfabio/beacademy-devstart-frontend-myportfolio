@@ -258,3 +258,47 @@ header .container nav .menu-social {
   top: 0;
   left: 700px;
 }
+
+/* section contact */
+
+.s-contact{
+  padding-bottom: 4rem;
+}
+
+.s-contact .container{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.s-contact .container .title-contact h2{
+  margin-bottom: 2.4rem;
+}
+
+.s-contact .container .form-contact{
+  width: 100%;
+  max-width: 48.6rem;
+}
+
+.s-contact .container .form-contact .input-group input[type="text"] {
+  margin-bottom: 3.1rem;
+}
+
+.s-contact .container .form-contact .input-group textarea {
+  margin-bottom: 0;
+}
+
+.input-button{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.s-contact .container .form-contact button{
+  border-radius: 2.4rem;
+  background-color: var(--primary-color);
+  padding: 1rem 2.4rem;
+  border: none;
+  margin-top: 1.7rem;
+  font-weight: 700;
+}
