@@ -124,6 +124,8 @@ Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos des
 
 - [release-init-html](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-init-html)
 
+    ![html-img](./assets/images/01.png)
+
 
 ## 🧰 Segunda Etapa:
  ### Melhorias
