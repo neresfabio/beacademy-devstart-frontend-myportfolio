@@ -131,9 +131,13 @@ Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos des
           - Fonte
           - Cores
           - Componentes
-- [X] Estilizar HEADER
-- [x] Trabalhando a MAIN
+- [X] Customizar HEADER
+- [x] Customizar a MAIN
   - Estilo da section "s-hero"
+  - Estilo da section "s-access"
+  - Estilo da section "s-about"
+  - Estilo da section "s-contact"
+- [] Customizar footer
 
 
 ## Lista releases
@@ -144,9 +148,21 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
 
     ![html-img](./assets/images/01.png)
 
-- [release-style-header-section](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-style-header-section)
+- [release-style-header-section(s-hero)](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-style-header-section)
   
-  ![header-section-img](assets/images/header-section.png)
+  ![header-section(s-hero)](assets/images/header-section.png)
+
+- [release-style-section(s-access)]()
+  
+  ![section(s-access)]()
+
+- [release-style-section(s-about)]()
+  
+  ![section(s-about)]()
+
+- [release-style-section(s-contact)]()
+  
+  ![section(s-contact)]()
 
 ## Aprendizados
 

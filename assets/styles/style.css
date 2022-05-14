@@ -109,3 +109,63 @@ header .container nav .menu-social {
   margin-top: 4rem;
   padding: 1rem 5.6rem;
 }
+
+/* section sucess */
+
+.s-sucess{
+  padding: 14.4rem 0;
+  margin: 0 auto;
+}
+.s-sucess .container{
+  display: flex;
+  align-items: center;
+  gap: 4.4rem;
+}
+
+.s-sucess .container .cards{
+  display: flex;
+}
+
+.s-sucess .container .title-sucess h2{
+  margin-top: 2rem;
+  font-weight: 700;
+}
+
+.s-sucess .container .title-sucess h2 .bold{
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+}
+
+.s-sucess .container .cards .card{
+  width: 100%;
+  height: 30.4rem;
+  background-color: var(--white-color);
+  border-radius: 4px;
+  margin-right: 3.1rem;
+  cursor: pointer;
+}
+
+.s-sucess .container .cards .card .title-card{
+  margin: 5rem 0;
+  padding-right: 14.5rem;
+  padding-left: 1.4rem;
+}
+/* active */
+.s-sucess .container .cards .card.active{
+  background-color: var(--primary-color);
+}
+
+.s-sucess .container .cards .card .title-card h3{
+  font-family: "Inter";
+  font-weight: 300;
+  font-size: 6.4rem;
+  line-height: 7.7rem;
+  margin-bottom: 5.5rem;
+}
+
+.s-sucess .container .cards .card .body-card p{
+  font-family: "Inter";
+  font-weight: 300;
+  font-size: 3.2rem;
+  line-height: 3.9rem;
+}
