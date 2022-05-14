@@ -160,7 +160,7 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
   
   ![section(s-about)](assets/images/section-about.png)
 
-- [release-style-section(s-cases)]()
+- [release-style-section(s-cases)](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-style-section-s-cases)
   
   ![section(s-cases)](assets/images/section-cases.png)
 
