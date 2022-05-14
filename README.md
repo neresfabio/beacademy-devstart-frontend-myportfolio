@@ -154,7 +154,7 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
 
 - [release-style-section(s-access)]()
   
-  ![section(s-access)]()
+  ![section(s-access)](assets/images/section-access.png)
 
 - [release-style-section(s-about)]()
   
