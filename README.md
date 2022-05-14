@@ -138,6 +138,8 @@ Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos des
 
 ## Lista releases
 
+Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vontade casso queira parti de algum momento sua criação.
+
 - [release-init-html](https://github.com/neresfabio/beacademy-devstart-frontend-myportfolio/tree/release-init-html)
 
     ![html-img](./assets/images/01.png)
