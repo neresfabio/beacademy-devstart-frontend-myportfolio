@@ -1,11 +1,11 @@
 
 # Título do Projeto
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
+Este projeto foi desenvolvido no bootcamp DevStart PayLivre sobre supervisão da be.academy.<br/>
+Neste repositório está descrito o processo de criação da réplica do modelo disponibilizado para todos os alunos.
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos desafios na area da programação.
 
 ## Stack utilizada
 
@@ -128,23 +128,21 @@ Eu sou uma pessoa desenvolvedora full-stack...
 ## 🧰 Segunda Etapa:
  ### Melhorias
 
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
+
 
 
 ## Aprendizados
 
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
 
 ## Autores
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@neresfabio](https://github.com/neresfabio)
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioneresdejesus/)
 
 ## Referências
 
