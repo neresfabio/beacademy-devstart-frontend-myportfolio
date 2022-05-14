@@ -16,3 +16,38 @@
   margin: 0 auto;
   padding: 0rem 1.5rem;
 }
+
+/*Titulos*/
+h2 {
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 6.4rem;
+  line-height: 7.7rem;
+  color: var(--white-color);
+}
+
+h2 span {
+  color: var(--primary-color);
+}
+
+.btn-primary{
+  border-radius: 2.4rem;
+  font-weight: 700;
+  line-height: 2.4rem;
+  font-size: 2.4rem;
+  background-color: var(--primary-color);
+  color: var(--black-color);
+  padding: 1rem 2.6rem;
+}
+.btn-primary.empty{
+  border: 2px solid var(--primary-color);
+  border-radius: 2.4rem;
+  color: var(--primary-color);
+  background-color: transparent;
+}
+.menu-item{
+  display: inline-block;
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: 2.4rem;
+}

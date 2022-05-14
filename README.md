@@ -128,7 +128,18 @@ Eu sou uma pessoa desenvolvedora full-stack, sempre disposto a encarar novos des
 
 
 ## 🧰 Segunda Etapa:
- ### Melhorias
+
+- [x] Criar container que envolvera as partes importantes do projeto 
+
+- [x] Trabalhando o CSS/style
+    - Olhamos para o layout do site e procurando por estilos que se repetem e colocamos em um unico arquivo.
+        - Pattern
+          - Fonte
+          - Cores
+          - Componentes
+- [X] Estilizar HEADER
+- [x] Trabalhando a MAIN
+  - Estilo da section "s-hero"
 
 
 

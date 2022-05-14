@@ -4,54 +4,68 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800;900&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/styles/pattern.css">
+    <link rel="stylesheet" href="/assets/styles/reset.css">
+    <link rel="stylesheet" href="/assets/styles/responsive.css">
+    <link rel="stylesheet" href="/assets/styles/style.css">
     <title>MyPortfólio</title>
 </head>
 <body>
     <header>
-        <img src="./assets/images/be-logo.svg" alt="Logo be.academy">
-        <nav>
-            <ul>
-                <li>
-                    <a href="#">QUEM SOU</a>
-                </li>
-                <li>
-                    <a href="#">CASES</a>
-                </li>
-            </ul>
-            <a href="#"><span> 😃 FAÇA UM ORÇAMENTO</span></a>
-            <ul>
-                <li>
-                    <a href="http://" target="_blank" >
-                        <img src="./assets/images/icon-linkedin.svg" alt="Logo Linkedin">
-                    </a>
-                </li>
-                <li>
-                    <a href="http://" target="_blank" >
-                        <img src="./assets/images/icon-instagram.svg" alt="Logo Instagram">
-                    </a>
-                </li>
-            </ul>
-        </nav>
+        <div class="container">
+            <div class="logo">
+                <img src="./assets/images/be-logo.svg" alt="Logo be.academy">
+            </div>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <a href="#about" class="menu-item">QUEM SOU</a>
+                    </li>
+                    <li>
+                        <a href="#cases" class="menu-item">CASES</a>
+                    </li>
+                </ul>
+                <a href="#contact" class="btn-primary"><span> 😃 FAÇA UM ORÇAMENTO</span></a>
+                <ul class="menu-social">
+                    <li>
+                        <a href="http://" target="_blank" >
+                            <img src="./assets/images/icon-linkedin.svg" alt="Meu Linkedin">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://" target="_blank" >
+                            <img src="./assets/images/icon-instagram.svg" alt="Meu Instagram">
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
     <main>
-        <section>
-            <h1>
-                Olá!👋🏻 Eu sou <br><span>Luan Monteiro</span>
-            </h1>
-            <h2>
-                Especialista em Desenvolvimento Front-end
-            </h2>
-            <p>
-                Tenho como especialidade realizar sonhos, transformando seu projeto em uma obra de arte.
-            </p>
-            
-            <a href="#" ><img src="./assets/images/icons8-html-5-480 1.svg" alt="Thec - HTML"></a>
-            <a href="#" ><img src="./assets/images/icons8-css3-480 1.svg" alt="Thec - CSS"></a>
-            <a href="#" ><img src="./assets/images/icons8-javascript-480 1.svg" alt="Thec - JS"></a>
-
-            <a href="#" >veja meus cases</a>
-            
+        <section class="s-hero">
+            <div class="container">
+                <div class="title-box">
+                    <h1>
+                        Olá!👋🏻 Eu sou <br><span>Luan Monteiro</span>
+                    </h1>
+                    <h2>
+                        Especialista em Desenvolvimento Front-end
+                    </h2>
+                    <p>
+                        Tenho como especialidade realizar sonhos, transformando seu projeto em uma obra de arte.
+                    </p>
+                    <div class="techs">
+                        <a href="#" ><img src="./assets/images/icons8-html-5-480 1.svg" alt="Thec - HTML"></a>
+                        <a href="#" ><img src="./assets/images/icons8-css3-480 1.svg" alt="Thec - CSS"></a>
+                        <a href="#" ><img src="./assets/images/icons8-javascript-480 1.svg" alt="Thec - JS"></a>
+                    </div>
+                    <a href="#" class="btn-primary empty">veja meus cases</a>
+                </div>
+            </div>
         </section>
 
         <section>
