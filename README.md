@@ -158,7 +158,7 @@ Netes cáptulo, deixo os momentos de cada sprites do desenvolvimento, fique a vo
 
 - [release-style-section(s-about)]()
   
-  ![section(s-about)]()
+  ![section(s-about)](assets/images/section-about.png)
 
 - [release-style-section(s-contact)]()
   

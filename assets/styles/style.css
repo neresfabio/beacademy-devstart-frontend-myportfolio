@@ -169,3 +169,36 @@ header .container nav .menu-social {
   font-size: 3.2rem;
   line-height: 3.9rem;
 }
+
+/* section about */
+.s-about{
+  background-color: var(--black-color-medium);
+  padding: 6rem 0;
+}
+.s-about .container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.s-about .container .title-about{
+  width: 100%;
+  max-width: 71rem;
+}
+
+.s-about .container .title-about p{
+  font-weight: 400;
+  line-height: 2.4rem;
+  font-size: 1.6rem;
+  color: rgba(255, 255, 255, 0.83);
+  margin-top: 2.4rem;
+}
+
+.s-about .container .title-about ul{
+  display: flex;
+  gap: 1.6rem;
+  margin-top: 3.2rem;
+}
+
+.s-about .container .img-about img{
+  border-radius: 4px;
+}
