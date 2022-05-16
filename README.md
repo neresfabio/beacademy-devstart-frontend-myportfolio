@@ -143,7 +143,7 @@ Sou desenvolvedor full-stack, sempre disposto a encarar novos desáfios na área
   - Estilo da section "s-access"
   - Estilo da section "s-about"
   - Estilo da section "s-contact"
-- [] Customizar footer
+- [x] Customizar footer
 
 
 ## Lista releases
